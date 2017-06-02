@@ -1,0 +1,11 @@
+body {
+  background-image: url(background.png)
+}
+
+img {
+  width: 154px;
+}
+
+.page {
+  margin: 0 320px;
+}
